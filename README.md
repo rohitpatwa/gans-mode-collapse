@@ -1,1 +1,1 @@
-# gans-mode-collapse
+# Exploring mode collapse in GANS
