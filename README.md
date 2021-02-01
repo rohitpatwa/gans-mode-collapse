@@ -13,3 +13,6 @@
 ### Technologies
 
 ### Authors
+
+**Rohit Patwa**: [Rohit Patwa](https://www.linkedin.com/in/rohitpatwa/)
+**Ativeer Patni**: [Ativeer Patni](https://www.linkedin.com/in/ativeer-patni/)
