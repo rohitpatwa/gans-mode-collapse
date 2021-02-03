@@ -62,6 +62,8 @@ lr = 0.0002 # learning rate
 
 Notice that the number of features used by the Discriminator are too less (on the basis of which it makes a prediction). Generally, the generator exploits these features and produces a gibberish output which fools the discriminator to believe that it is a real image. Thus to avoid overfitting the discriminator, we added a noisy label. We did this by flipping a certain percentage of labels being fed to the discriminator as the ground truth. This avoids overfitting and ultimately prevents mode collapse.
 
+![Labels flipped](https://github.com/rohitpatwa/gans-mode-collapse/blob/main/media/labels.png | width=80)
+
 ## Results
 
 We tried 6 experiments on MNIST dataset with erroneous components in the discriminator.
